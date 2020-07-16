@@ -47,7 +47,7 @@ Hi, I'm Balan Dhanka, a Full Stack Developer and Data Scientist 🚀 from India,
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm currently learning Computer Vision;
 - 📫 How to reach me: dhankabalan@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume](https://drive.google.com/file/d/1XtJW9ewF43wV5Gnxh1u0OvzE-3ZjXFop/view?usp=sharing)
 
 **Languages and Tools:**  
 
