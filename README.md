@@ -43,7 +43,7 @@ Hi, I'm Balan Dhanka, a Full Stack Developer and Data Scientist 🚀 from India,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently Grooking pytorch;
-- 🌱 I’m currently implementing Data Science and Machine Learning projects from scratch ; 
+- 🌱 I’m currently working on implementing Data Science and Machine Learning projects from scratch; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm currently learning Computer Vision;
 - 📫 How to reach me: dhankabalan@gmail.com;
