@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Balan Dhanka, a Full Stack Developer and Data Scientist 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NVIDIAGameWorks](https://github.com/NVIDIAGameWorks), [@dotQuestionmark](https://github.com/dotQuestionmark) [@TechCCT](https://github.com/TechCCT) and a Former Research Intern [@MNIT Jaipur](http://www.mnit.ac.in/).
+Hi, I'm Balan Dhanka, a Software Developer and Data Scientist 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NVIDIAGameWorks](https://github.com/NVIDIAGameWorks), [@dotQuestionmark](https://github.com/dotQuestionmark) [@TechCCT](https://github.com/TechCCT) and a Former Research Intern [@MNIT Jaipur](http://www.mnit.ac.in/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -51,14 +51,14 @@ Hi, I'm Balan Dhanka, a Full Stack Developer and Data Scientist 🚀 from India,
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
