@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm [Balan!](https://github.com/balandhanka) 
 
 <br/>
-<a href="https://twitter.com/DhankaBalan">
-  <img align="left" alt="Balan Dhanka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/balan-dhanka-59a783187/">
   <img align="left" alt="Balan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/dhankabalan">
+  <img align="left" alt="Balan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://twitter.com/DhankaBalan">
+  <img align="left" alt="Balan Dhanka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/balandhanka">
   <img align="left" alt="Balan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -28,9 +31,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/balan_dhanka_/">
   <img align="left" alt="Balan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/dhankabalan">
-  <img align="left" alt="Balan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balandhanka.balandhanka)
 
@@ -42,7 +42,7 @@ Hi, I'm Balan Dhanka, a Full Stack Developer and Data Scientist 🚀 from India,
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Grooking pytorch;
+- 👨🏽‍💻 I’m currently Grokking pytorch;
 - 🌱 I’m currently working on implementing Data Science and Machine Learning projects from scratch; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm currently learning Computer Vision;
