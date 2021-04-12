@@ -42,9 +42,9 @@ Hi, I'm Balan Dhanka, a Software Developer and Data Scientist 🚀 from India, c
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Grokking pytorch;
-- 🌱 I’m currently working on implementing Data Science and Machine Learning projects from scratch; 
-- ⚡️ I'm currently learning Computer Vision applications;
+- 👨🏽‍💻 Grokking pytorch;
+- 🌱 Implementing Data Science and Machine Learning projects from scratch; 
+- ⚡️ Creating Computer Vision applications;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dhankabalan@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1XtJW9ewF43wV5Gnxh1u0OvzE-3ZjXFop/view?usp=sharing)
