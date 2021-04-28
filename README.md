@@ -28,15 +28,12 @@ Here are some ideas to get you started:
 <a href="https://t.me/balandhanka">
   <img align="left" alt="Balan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/balan_dhanka_/">
-  <img align="left" alt="Balan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balandhanka.balandhanka)
 
 <br />
 
-Hi, I'm Balan Dhanka, a Software Developer and Data Scientist 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NVIDIAGameWorks](https://github.com/NVIDIAGameWorks), [@dotQuestionmark](https://github.com/dotQuestionmark) [@TechCCT](https://github.com/TechCCT) and a Former Research Intern [@MNIT Jaipur](http://www.mnit.ac.in/).
+Hi, I'm Balan Dhanka, a Software Developer and Data Scientist 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@NVIDIAGameWorks](https://github.com/NVIDIAGameWorks), [@TechCCT](https://github.com/TechCCT) and a Former Research Intern [@MNIT Jaipur](http://www.mnit.ac.in/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
